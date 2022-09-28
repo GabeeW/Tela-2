@@ -1,0 +1,29 @@
+#body{
+    text-align: center;
+    
+}
+#text{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    text-align: center;
+    left: 800px;
+    top:300px;
+    position:absolute;
+    font-size: 20px;
+}
+#but{
+    width: 150px;
+    height: 50px;
+    background: purple;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 0px 1px 5px  rgb(10, 10, 10);
+    text-align: center;
+    color:white;
+    left: 880px;
+    top: 340px;
+    position:absolute;
+     font-size: 20px;
+     box-shadow: 0px 1px 5px black;
+
+    
+}
